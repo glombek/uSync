@@ -79,7 +79,7 @@
                     </label>
                     <label class="radio">
                         <asp:RadioButton ID="rbManual" runat="server" CssClass="" GroupName="uSyncMode"/> 
-                        Manual Sync <small>No automatic imports or saves. (whay not try <a href="">uSync.Snapshots</a>?)</small>
+                        Manual Sync <small>No automatic imports or saves. (why not try <a href="">uSync.Snapshots</a>?)</small>
                     </label>
                     <label class="radio">
                         <asp:RadioButton ID="rbOther" runat="server" GroupName="uSyncMode" Enabled="false"/>
